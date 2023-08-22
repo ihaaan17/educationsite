@@ -75,5 +75,4 @@ var swiper = new Swiper(".course-slider", {
       },
   }); 
  
-exports.build = series(scssTask, jsTask);
   
